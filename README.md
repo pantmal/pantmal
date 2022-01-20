@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pantmal&theme=darcula&show_icons&include_all_commits&count_private&disable_animations)](https://github.com/pantmal/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pantmal&theme=darcula&show_icons=true&include_all_commits&true&count_private=true&disable_animations=true)](https://github.com/pantmal/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantmal&layout=compact&theme=chartreuse-dark&exclude_repo=Computer-Security-Pen-Testing,AI-2-Projects,Data-Mining-2,Data-Mining-1&langs_count=10)](https://github.com/pantmal/github-readme-stats)
