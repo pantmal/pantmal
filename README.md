@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - I am Pantelis. Currently I am an undergraduate student at the Department of Informatics and Telecommunications, National and Kapodistrian University of Athens.
 
-- You may view my [CV](https://link-url-here.org)
+- You may view my [CV](https://drive.google.com/file/d/1b0NkGCVH48u5bDwZ859UOA0dt5_igXwZ/view?usp=sharing)
 
 - You may also reach me through [LinkedIn](https://www.linkedin.com/in/pantelis-malekas-922b9b221/)
 
