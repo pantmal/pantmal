@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pantmal&theme=darcula)](https://github.com/pantmal/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantmal&layout=compact&theme=chartreuse-dark)](https://github.com/pantmal/github-readme-stats)
