@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pantmal&theme=darcula)](https://github.com/pantmal/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantmal&layout=compact&theme=chartreuse-dark&exclude_repo=Computer-Security-Pen-Testing&exclude_repo=AI-2-Projects)](https://github.com/pantmal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantmal&layout=compact&theme=chartreuse-dark&exclude_repo=Computer-Security-Pen-Testing&AI-2-Projects)](https://github.com/pantmal/github-readme-stats)
