@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 - I am Pantelis. Currently I am an undergraduate student at the Department of Informatics and Telecommunications, National and Kapodistrian University of Athens.
 
-- You may view my experience by my [CV](https://drive.google.com/file/d/1b0NkGCVH48u5bDwZ859UOA0dt5_igXwZ/view?usp=sharing)
+- You may reach me through [LinkedIn](https://www.linkedin.com/in/pantelis-malekas-922b9b221/)
 
-- You may also reach me through [LinkedIn](https://www.linkedin.com/in/pantelis-malekas-922b9b221/)
+- You may also view my experience by my [CV](https://drive.google.com/file/d/1b0NkGCVH48u5bDwZ859UOA0dt5_igXwZ/view?usp=sharing)
 
 ### My GitHub Stats 
 
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ### My Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantmal&layout=compact&theme=chartreuse-dark&exclude_repo=Computer-Security-Pen-Testing,AI-2-Projects,Data-Mining-2,Data-Mining-1&langs_count=10)](https://github.com/pantmal/pantmal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantmal&layout=compact&theme=chartreuse-dark&exclude_repo=Computer-Security-Pen-Testing,AI-2-Projects,Data-Mining-2,Data-Mining-1&langs_count=7)](https://github.com/pantmal/pantmal)
