@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 ### My Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantmal&layout=compact&theme=chartreuse-dark&exclude_repo=Computer-Security-Pen-Testing,AI-2-Projects,Data-Mining-2,Data-Mining-1&langs_count=7)](https://github.com/pantmal/pantmal)
+
