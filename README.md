@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am Pantelis. Currently I am an undergraduate student at the Department of Informatics and Telecommunications, National and Kapodistrian University of Athens.
+- I am Pantelis. I am a graduate student at the Department of Informatics and Telecommunications, National and Kapodistrian University of Athens. I currently work as a DevOps Engineer at Quintessential SFT.
 
 - You may reach me through [LinkedIn](https://www.linkedin.com/in/pantelis-malekas-922b9b221/)
 
